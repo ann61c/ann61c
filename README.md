@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: -->
 
 
-![Gillian's github stats](https://github-readme-stats.vercel.app/api?username=yliu110&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
+![Gillian's github stats](https://github-readme-stats.vercel.app/api?username=yliu110&theme=graywhite&count_private=true)
