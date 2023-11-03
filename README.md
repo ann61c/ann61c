@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-<!--
-**yliu110/yliu110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently studying at NC State University.
-- 🌱 I’m currently learning Javascript.
+- 🔭 I’m currently studying at UNC Chapel Hill.
+- 🌱 I’m actively seeking internships on Software Developement. 
 - 😄 Pronouns: she, her, hers
-- ⚡ Fun fact: I love Firefox. 
+- ⚡ Fun fact: I keep having Mcdonald's for lunch for 3 months to lose weight.
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
