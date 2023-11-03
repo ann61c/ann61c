@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: -->
 
 
-![Gillian's github stats](https://github-readme-stats.vercel.app/api?username=ann61c&theme=graywhite&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ann61c/ann61c/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ann61c/ann61c/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ann61c/ann61c/output/github-contribution-grid-snake.svg">
+</picture>
