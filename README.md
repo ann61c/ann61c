@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently studying at UNC Chapel Hill.
 - 🌱 I’m actively seeking internships on Software Developement. 
-- 😄 Pronouns: she, her, hers
 - ⚡ Fun fact: I keep having Mcdonald's for lunch for 3 months to lose weight.
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
