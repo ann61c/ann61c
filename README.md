@@ -1,8 +1,15 @@
 ### Hi there 👋
+---
 
-- 🔭 I’m currently studying at UNC Chapel Hill.
-- 🌱 I’m actively seeking internships on Software Developement. 
-- ⚡ Fun fact: I keep having Mcdonald's for lunch for 3 months to lose weight.
+I'm Taco, Miss Taco, eggTarts, iceCream, ..., whatever food name you may or may not heard of. I use food as my name. 
+
+You can call me Freya (for now). It's my human name. 
+
+I code some random stuff, host them in my server in Neitherland(Debian) and N. Virginia, US(Ubuntu). 
+
+I like my server, I host RSS reader, password management app, blog, gallery, network tools...
+
+Website: [https://lyc.sh](https://lyc.sh)  
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
