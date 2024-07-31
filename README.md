@@ -29,7 +29,7 @@ Website: [https://lyc.sh](https://lyc.sh)
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leots1234&layout=compact&api_domain=wakapi.dev" />
 </picture>
 -->
-<picture width=45% height=220 align="center">
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=leots1234&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages&display_format=percent&api_domain=wakapi.dev&theme=github_dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
@@ -41,16 +41,16 @@ Website: [https://lyc.sh](https://lyc.sh)
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leots1234&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages&display_format=percent&theme=graywhite&api_domain=wakapi.dev&hide_border=true" />
 </picture>
 
-<picture width=45% height=220 align="center">
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ann61c&rank_icon=github&theme=github_dark&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=ann61c&rank_icon=github&theme=github_dark&hide_border=true&card_width=270"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ann61c&rank_icon=github&hide_border=true&theme=graywhite"
+    srcset="https://github-readme-stats.vercel.app/api?username=ann61c&rank_icon=github&hide_border=true&theme=graywhite&card_width=270"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ann61c&rank_icon=github&hide_border=true&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ann61c&rank_icon=github&hide_border=true&theme=graywhite&card_width=270" />
 </picture>
 
 <picture>
