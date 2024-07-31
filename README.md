@@ -17,6 +17,44 @@ Website: [https://lyc.sh](https://lyc.sh)
 
 
 <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=leots1234&layout=compact&api_domain=wakapi.dev&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=leots1234&layout=compact&api_domain=wakapi.dev"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leots1234&layout=compact&api_domain=wakapi.dev" />
+</picture>
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=leots1234&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&display_format=percent&api_domain=wakapi.dev&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=leots1234&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&display_format=percent&theme=graywhite&api_domain=wakapi.dev"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leots1234&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&display_format=percent&theme=graywhite&api_domain=wakapi.dev" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ann61c&rank_icon=github&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ann61c&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ann61c&rank_icon=github" />
+</picture>
+
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ann61c/ann61c/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ann61c/ann61c/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ann61c/ann61c/output/github-contribution-grid-snake.svg">
