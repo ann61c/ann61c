@@ -6,9 +6,7 @@ I'm Taco, Miss Taco, eggTarts, iceCream, ..., whatever food name you may or may 
 
 You can call me Freya (for now). It's my human name.
 
-I code some random stuff, host them in my server in Netherlands(Debian) and N. Virginia, US(Ubuntu).
-
-I like my server, I host RSS reader, password management app, blog, gallery, network tools...
+I can usually be reached by email. 
 
 Website: [https://lyc.sh](https://lyc.sh)
 
