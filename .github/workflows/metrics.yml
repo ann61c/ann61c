@@ -1,0 +1,70 @@
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token (create METRICS_TOKEN secret, or it will use GITHUB_TOKEN)
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: ann61c
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Los_Angeles
+          config_display: large
+
+          # 🎨 Isometric commit calendar (3D contribution graph)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # 🔥 Streak statistics
+          plugin_streak: yes
+
+          # 📊 Languages activity
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+
+          # 🌟 Starred topics
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
+          # 🎯 Notable contributions
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit, pull_request, issue
+
+          # 🎭 Reaction bubbles for issue/PR interactions
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_issues: 100
+
+          # 📌 Featured repositories
+          plugin_repositories: yes
+          plugin_repositories_featured: ann61c/ann61c
+
+          # 💫 Activity chart
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+
+          # 🏆 Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
