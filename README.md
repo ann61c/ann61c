@@ -19,12 +19,12 @@ I use food as my name—call me **Taco**, **EggTarts**, **Ice Cream**, or whatev
 - 🌱 Always learning, always hungry
 - 📫 Best reached by email
 
-    </td>
+</td>
     <td width="50%" valign="top">
 
 <img src="github-metrics.svg" alt="Metrics" width="100%" />
 
-    </td>
+</td>
   </tr>
 </table>
 
