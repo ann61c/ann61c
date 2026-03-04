@@ -22,7 +22,7 @@ jobs:
           # Options
           user: ann61c
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           config_timezone: America/Los_Angeles
           config_display: large
 
@@ -40,28 +40,16 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
 
-          # 🎯 Notable contributions
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit, pull_request, issue
-
-          # 🎭 Reaction bubbles for issue/PR interactions
-          plugin_reactions: yes
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_issues: 100
-
           # 📌 Featured repositories
           plugin_repositories: yes
           plugin_repositories_featured: ann61c/ann61c
 
-          # 💫 Activity chart
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          # 📈 Lines changed
+          plugin_lines: yes
+          plugin_lines_sections: base
 
-          # 🏆 Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: C
+          # 👥 People (followers/following)
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
