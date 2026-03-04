@@ -11,7 +11,7 @@
   <tr>
     <td width="50%" valign="top">
 
-### 🍳 About
+### About
 
 I use food as my name—call me **Taco**, **EggTarts**, **Ice Cream**, or whatever delicious thing comes to mind. My human name is **Freya**.
 
@@ -30,7 +30,7 @@ I use food as my name—call me **Taco**, **EggTarts**, **Ice Cream**, or whatev
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ann61c/ann61c/output/github-contribution-grid-snake-dark.svg">
@@ -42,6 +42,6 @@ I use food as my name—call me **Taco**, **EggTarts**, **Ice Cream**, or whatev
 
 <div align="center">
 
-*["First we eat, then we do everything else."](https://github.com/ann61c)*
+"KFC Crazy Thursday vme 50"
 
 </div>
