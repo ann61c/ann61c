@@ -14,42 +14,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          # Create METRICS_TOKEN at: https://github.com/settings/tokens
-          # Required scopes: repo, read:user, read:org
-          # Or remove the || fallback to use GITHUB_TOKEN (limited features)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+          # Simple, clean metrics
           user: ann61c
           template: classic
-          base: header, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
-          config_display: large
-
-          # 🎨 Isometric commit calendar (3D contribution graph)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-          # 📊 Languages activity
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-
-          # 🌟 Starred topics
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-
-          # 📌 Featured repositories
-          plugin_repositories: yes
-          plugin_repositories_featured: ann61c/ann61c
-
-          # 📈 Lines changed
-          plugin_lines: yes
-          plugin_lines_sections: base
-
-          # 👥 People (followers/following)
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
