@@ -13,8 +13,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token (create METRICS_TOKEN secret, or it will use GITHUB_TOKEN)
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          # Your GitHub token
+          # Create METRICS_TOKEN at: https://github.com/settings/tokens
+          # Required scopes: repo, read:user, read:org
+          # Or remove the || fallback to use GITHUB_TOKEN (limited features)
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: ann61c
