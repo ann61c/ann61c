@@ -30,6 +30,14 @@ I use food as my name—call me **Taco**, **EggTarts**, **Ice Cream**, or whatev
 
 ---
 
+### Tokens Stats
+
+[![Tokens Stats](https://tokens.ci/api/embed/ann61c/svg?theme=light&template=minimal&color=pink&tokens=compact&cost=full)](https://tokens.ci/u/ann61c)
+
+[![Tokens Stats](https://tokens.ci/api/embed/ann61c/svg?theme=light&template=detailed&color=pink&tokens=compact&cost=compact)](https://tokens.ci/u/ann61c)
+
+---
+
 ### Contribution Graph
 
 <picture>
